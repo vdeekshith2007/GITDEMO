@@ -1,235 +1,175 @@
-# GITDEMO
-🚀 Deekshith Vataparthi - Personal Portfolio
+# Vatapathi Deekshith-Demo
+🚀 Deekshith Vataparthi | AI/ML Developer Portfolio
 
-Welcome to my personal developer portfolio!
-This website showcases my skills, projects, certifications, and experience as a Computer Science Engineering student, AI/ML Developer, Generative AI Developer, and Full Stack Developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Generative+AI+Enthusiast;Full+Stack+Developer;Building+Intelligent+Applications" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vdeekshith2007&label=Profile%20Views&color=blue&style=flat" />
+</p>---
 
-The portfolio is designed with a modern UI, smooth animations, and a responsive layout to provide an engaging experience across all devices.
+👋 Hi, I'm Deekshith Vataparthi
 
----
+🎓 Computer Science Engineering Student
+🤖 AI/ML Developer | Generative AI Enthusiast | Full Stack Developer
+💡 Passionate about building intelligent applications using AI, Machine Learning, and modern software technologies.
 
-👨‍💻 About Me
-
-Hi, I'm Deekshith Vataparthi, a Computer Science Engineering student passionate about:
+I love transforming ideas into real-world solutions using:
 
 - Artificial Intelligence
-- Machine Learning
-- Generative AI
 - Large Language Models (LLM)
-- Full Stack Development
-- Software Engineering
-
-I enjoy building real-world applications using modern technologies and continuously improving my problem-solving skills through coding and development projects.
-
----
-
-🛠️ Tech Stack
-
-Programming Languages
-
-- C
-- C++
-- Java
-- Python
-
-Frontend Development
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-
-Backend Development
-
-- Node.js
-- Express.js
-- Flask
-- FastAPI
-
-AI / Machine Learning
-
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Generative AI
-- LLM Applications
 - Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-
-Databases
-
-- SQL
-- PostgreSQL
-- MongoDB
-- Vector Databases
-
-Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker
-- Linux
+- Machine Learning
+- Full Stack Development
 
 ---
 
-📌 Featured Projects
+🧠 My Tech Universe
 
-🩺 External Skin Infection Detection using Generative AI
+<div align="center">💻 Programming
 
-An AI-powered healthcare application that analyzes skin condition images and provides intelligent insights using Machine Learning and Generative AI.
+"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+"Java" (https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+"Python" (https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-Technologies:
+🌐 Development
 
-- Python
-- TensorFlow
-- Deep Learning
-- Generative AI
-- Flask / Streamlit
+"React" (https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+"JavaScript" (https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+"Node.js" (https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+🤖 Artificial Intelligence
+
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+"PyTorch" (https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+"LangChain" (https://img.shields.io/badge/LangChain-LLM-blue?style=for-the-badge)
+
+</div>---
+
+🚀 Featured Projects
+
+🩺 AI Skin Infection Detection using Generative AI
+
+«An AI-powered healthcare assistant that analyzes skin images and provides intelligent insights using Deep Learning and Generative AI.»
+
+Tech Stack
+
+🐍 Python
+🧠 TensorFlow
+🤖 Generative AI
+🌐 Flask / Streamlit
 
 ---
 
-🤖 PDF Question Answering System using RAG & LLM
+📄 PDF Question Answering System using RAG & LLM
 
-An AI document assistant that allows users to upload PDF files and ask questions. The system retrieves relevant information from documents and generates accurate answers using Large Language Models.
-
-Technologies:
-
-- Python
-- LangChain
-- LangGraph
-- LLM
-- RAG
-- Embeddings
-- FAISS / ChromaDB
-- PyPDF
-- Streamlit
+«An intelligent document assistant that allows users to interact with PDF files and get accurate AI-generated answers.»
 
 Features:
 
-- PDF document upload
-- Text extraction
-- Document chunking
-- Vector embedding generation
-- Semantic search
-- Context-aware AI responses
+✅ Upload PDF documents
+✅ Extract and process text
+✅ Create embeddings
+✅ Semantic search
+✅ Retrieve relevant context
+✅ Generate answers using LLM
+
+Architecture
+
+PDF Upload
+     ↓
+Text Extraction
+     ↓
+Document Chunking
+     ↓
+Embeddings
+     ↓
+Vector Database
+     ↓
+Retriever
+     ↓
+LLM
+     ↓
+AI Answer
+
+Tech Stack
+
+🐍 Python
+🔗 LangChain
+🧩 LangGraph
+🧠 LLM
+📚 RAG
+🗄️ FAISS / ChromaDB
+⚡ Streamlit
 
 ---
 
-🏠 House Price Prediction using Machine Learning
+🏠 House Price Prediction
 
-A machine learning model that predicts house prices based on different input features.
+Machine learning model predicting house prices using real-world datasets.
 
-Technologies:
+Technologies
 
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Machine Learning Algorithms
 
 ---
 
 📝 Secure Online Aptitude Examination System
 
-A secure online examination platform that provides automated evaluation and efficient assessment management.
+A web-based examination platform providing secure assessments and automated evaluation.
 
-Technologies:
+Technologies
 
 - HTML
 - CSS
 - JavaScript
-- Backend Framework
+- Backend
 - Database
 
 ---
 
 🎓 Education
 
-Bachelor of Technology (B.Tech)
-Computer Science and Engineering
+🎓 B.Tech Computer Science Engineering
 
-Sri Venkateshwara College of Engineering and Technology
+🏫 Sri Venkateshwara College of Engineering and Technology
 
-CGPA: 9.21
-
----
-
-📜 Certifications & Experience
-
-Infosys Springboard Virtual Internship
-
-AI/ML Virtual Internship
-
-- Worked on Artificial Intelligence and Machine Learning concepts.
-- Developed skills in AI-based application development.
+⭐ CGPA: 9.21
 
 ---
 
-🏆 Achievements
+📜 Certifications
 
-- Solved programming problems on LeetCode
-- Maintained GitHub development activity
-- Built AI/ML and Full Stack projects
-- Continuously learning advanced technologies
+🏅 Infosys Springboard Virtual Internship
+Artificial Intelligence & Machine Learning
 
 ---
+
+📊 Coding & Development Activity
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vdeekshith2007&show_icons=true&theme=tokyonight"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vdeekshith2007&theme=tokyonight"/></p>---
 
 🌐 Connect With Me
 
-GitHub:
-https://github.com/vdeekshith2007
+<p align="center"><a href="https://github.com/vdeekshith2007">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a><a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a><a href="https://leetcode.com/DEEKSHITH_VIJAYBHASKAR">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a></p>---
 
-LinkedIn:
-(Add your LinkedIn profile link)
+💭 Developer Quote
 
-LeetCode:
-https://leetcode.com/DEEKSHITH_VIJAYBHASKAR
-
----
-
-⚙️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/vdeekshith2007/portfolio.git
-
-Navigate to project directory:
-
-cd portfolio
-
-Install dependencies:
-
-npm install
-
-Run the development server:
-
-npm run dev
-
-Open in browser:
-
-http://localhost:5173
+«"Building intelligent systems today to solve tomorrow's problems."»
 
 ---
 
-🚀 Deployment
-
-This portfolio can be deployed using:
-
-- Vercel
-- Netlify
-- GitHub Pages
-
----
-
-⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
-
-Made with ❤️ by Deekshith Vataparthi
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p><p align="center">
+Made with ❤️ by <b>Deekshith Vataparthi</b>
+</p>
