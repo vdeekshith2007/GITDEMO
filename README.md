@@ -57,6 +57,7 @@ RAG Applications
 LangChain
 LangGraph
 AI Agents
+Cybersecurity (secure detection of fraud analysis)
 
 🗄️ Database & Tools
 
