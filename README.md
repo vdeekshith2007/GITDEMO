@@ -51,7 +51,9 @@ Deep Learning
 TensorFlow
 PyTorch
 Scikit-learn
+Agentic AI(llm,rang,langchain, langgraph,llm evaluation,llm metrics)
 Generative AI
+
 Large Language Models (LLM)
 RAG Applications
 LangChain
