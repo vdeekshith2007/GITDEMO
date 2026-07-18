@@ -276,4 +276,4 @@ Interested in:
 </p><p align="center">Made with ❤️ by
 <b>Deekshith Vataparthi</b>
 
-</p>
+</p>.   
